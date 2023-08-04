@@ -61,3 +61,4 @@ _You'll need the middleware `isAuthenticated` for this._
 ![alt](https://media.giphy.com/media/PkimPOMOVbcMU/giphy.gif)
 
 Now on every request, you need to send your token. With `Fetch`, you have to set the `Authorization` inside the `headers` to be `"Bearer ${token}"`.
+# Movie_Night_BackEnd
